@@ -4,14 +4,14 @@ This project leverages AI to generate simple web applications based on a user's 
 
 ## Prerequisites
 
-- Python 3.11.9
+- Python 3.11.9 or >
 - [uv](https://github.com/astral-sh/uv) (a fast Python package installer)
 
 ## Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/umeshrai01/ai-app-builder
     cd ai-app-builder
     ```
 
